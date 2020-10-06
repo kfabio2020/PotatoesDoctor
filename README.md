@@ -1,6 +1,6 @@
 # flutter_image
 
-Image Application
+PotatoesDoctor
 
 ## Getting Started
 
